@@ -63,5 +63,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=keigo29&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+## 📝 Qiita
+
+[![Qiita](https://img.shields.io/badge/Qiita-keigo29-55C500?logo=qiita&logoColor=white)](https://qiita.com/keigo29)
+
+最新の技術記事は Qiita に投稿中です！  
+👉 [https://qiita.com/keigo29](https://qiita.com/keigo29)
+
+<!-- ↓自作画像の場合（GitHub内にアップした画像URL） -->
+<!-- ![Qiita Activity](https://github.com/keigo29/keigo29/blob/main/images/qiita-activity-graph.png) -->
 
 
